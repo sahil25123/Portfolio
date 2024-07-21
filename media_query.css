@@ -1,0 +1,52 @@
+@media (max-width: 768px){
+    .nav-bars{
+        display: block;
+        margin-right: 20px;
+        width: 39.9px;
+position: relative;
+height: 40px;
+overflow: hidden;
+flex-shrink: 0;
+font-size: 50px;
+height: 36px;
+
+    }
+    .header{
+        padding: 16px;
+    }
+
+    .taskbar{
+        display: none;
+    }
+    .button1{
+        display: none;
+    }
+    .logo{
+        font-size: 50px;
+
+    }
+    .logo p{
+        font-size: 36px;
+    }
+    .herosec{
+        padding: 40px 16px;
+    }
+    .hero-cont{
+        padding: 0%;
+        width: 343px;
+
+    }
+    .banner2{
+        padding:20px 0px;
+        height: 332px;
+        width: 343px;;
+    }
+    .banner1{
+        width: 343px;
+
+    }
+
+}
+
+
+    
