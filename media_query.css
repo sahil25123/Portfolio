@@ -1,0 +1,811 @@
+
+@media screen and (max-width: 789px){
+    .logo-1-icon {
+        width: 39.9px;
+        position: relative;
+        height: 40px;
+        overflow: hidden;
+        flex-shrink: 0;
+  }
+  .personal {
+        position: relative;
+        letter-spacing: -0.02em;
+        line-height: 24px;
+        text-transform: capitalize;
+  }
+  .logo {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 12px;
+  }
+  .material-symbolsmenu-icon {
+        width: 36px;
+        position: relative;
+        height: 36px;
+        overflow: hidden;
+        flex-shrink: 0;
+  }
+  .container {
+        align-self: stretch;
+        overflow: hidden;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+  }
+  .my-testimonial {
+        align-self: stretch;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding: 16px;
+        font-size: 20px;
+  }
+  .column-child {
+        width: 495.2px;
+        position: absolute;
+        margin: 0 !important;
+        top: 0px;
+        left: -145.11px;
+        height: 332px;
+        overflow: hidden;
+        flex-shrink: 0;
+        z-index: 0;
+  }
+  .column {
+        align-self: stretch;
+        height: 332px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 0px;
+        box-sizing: border-box;
+        position: relative;
+  }
+  .hello-iam {
+        position: relative;
+        letter-spacing: -0.02em;
+        line-height: 32px;
+  }
+  .evren-shah {
+        position: relative;
+        letter-spacing: -0.02em;
+        line-height: 32px;
+        font-weight: 800;
+  }
+  .hello-iam-parent {
+        align-self: stretch;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 16px;
+  }
+  .developer {
+        position: relative;
+        letter-spacing: -0.02em;
+        line-height: 32px;
+        font-weight: 800;
+        color: transparent;
+        -webkit-text-stroke: 1.4px #000;
+  }
+  .frame-parent {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 12px;
+  }
+  .im-evren-shah {
+        align-self: stretch;
+        position: relative;
+        font-size: 16px;
+        letter-spacing: 0.02em;
+        line-height: 24px;
+        color: #71717a;
+  }
+  .social-icon {
+        width: 20px;
+        position: relative;
+        height: 20px;
+  }
+  .button {
+        width: 48px;
+        border-radius: 4px;
+        background-color: #000;
+        height: 48px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 12px;
+        box-sizing: border-box;
+  }
+  .social-icon1 {
+        width: 20px;
+        position: relative;
+        height: 20px;
+        object-fit: cover;
+  }
+  .button1 {
+        width: 50px;
+        border-radius: 4px;
+        border: 2px solid #000;
+        box-sizing: border-box;
+        height: 50px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 12px;
+  }
+  .button-parent {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding: 4px 0px;
+        gap: 24px;
+  }
+  .column1 {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 32px;
+  }
+  .container1 {
+        align-self: stretch;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 48px;
+  }
+  .hero-section {
+        align-self: stretch;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding: 40px 16px;
+  }
+  .icon-express {
+        width: 56px;
+        position: relative;
+        height: 56px;
+        overflow: hidden;
+        flex-shrink: 0;
+  }
+  .javascript {
+        align-self: stretch;
+        position: relative;
+        letter-spacing: -0.02em;
+        line-height: 24px;
+        text-transform: capitalize;
+  }
+  .skills1 {
+        flex: 1;
+        border-radius: 4px;
+        background-color: #fff;
+        border: 2px solid #000;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 24px;
+        gap: 32px;
+  }
+  .skills-parent {
+        align-self: stretch;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+  }
+  .icon-javscript {
+        width: 56px;
+        position: relative;
+        height: 56px;
+  }
+  .skills4 {
+        flex: 1;
+        border-radius: 4px;
+        background-color: #000;
+        border: 2px solid #000;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 24px;
+        gap: 32px;
+        color: #fff;
+  }
+  .column3 {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+        text-align: center;
+        font-size: 20px;
+  }
+  .container2 {
+        align-self: stretch;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 20px;
+  }
+  .google-icon {
+        width: 32px;
+        position: relative;
+        height: 32px;
+        overflow: hidden;
+        flex-shrink: 0;
+  }
+  .lead-software-engineer {
+        flex: 1;
+        position: relative;
+        letter-spacing: -0.02em;
+        line-height: 24px;
+        text-transform: capitalize;
+        font-weight: 600;
+  }
+  .google-parent {
+        align-self: stretch;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 30px;
+  }
+  .nov-2019- {
+        position: relative;
+        font-size: 16px;
+        letter-spacing: -0.02em;
+        line-height: 20px;
+        font-weight: 600;
+        color: #d4d4d8;
+        text-align: center;
+  }
+  .frame-group {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 30px;
+  }
+  .as-a-senior {
+        align-self: stretch;
+        position: relative;
+        font-size: 16px;
+        letter-spacing: 0.02em;
+        line-height: 24px;
+        color: #d4d4d8;
+  }
+  .experience1 {
+        align-self: stretch;
+        border-radius: 10px;
+        border: 1px solid #71717a;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding: 30px 24px;
+        gap: 28px;
+  }
+  .youtube-icon {
+        width: 32px;
+        position: relative;
+        height: 32px;
+  }
+  .as-a-senior1 {
+        align-self: stretch;
+        position: relative;
+        font-size: 16px;
+        letter-spacing: 0.02em;
+        line-height: 24px;
+        color: #d4d4d8;
+        white-space: pre-wrap;
+  }
+  .experience2 {
+        align-self: stretch;
+        border-radius: 10px;
+        background-color: #27272a;
+        border: 1px solid #71717a;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding: 30px 24px;
+        gap: 28px;
+  }
+  .column5 {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+        font-size: 20px;
+  }
+  .column-item {
+        width: 336.2px;
+        position: relative;
+        height: 366px;
+        opacity: 0.98;
+  }
+  .column6 {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 4px 0px;
+  }
+  .column7 {
+        align-self: stretch;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+        padding: 20px 0px;
+        gap: 16px;
+  }
+  .im-a-passionate {
+        align-self: stretch;
+        position: relative;
+        letter-spacing: 0.02em;
+        line-height: 24px;
+  }
+  .column8 {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 20px;
+        font-size: 16px;
+        color: #71717a;
+  }
+  .row {
+        align-self: stretch;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 0px;
+        gap: 16px;
+  }
+  .image-771-icon {
+        flex: 1;
+        position: relative;
+        border-radius: 18.76px;
+        max-width: 100%;
+        overflow: hidden;
+        height: 397.7px;
+        object-fit: cover;
+  }
+  .image {
+        align-self: stretch;
+        overflow: hidden;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+  }
+  .div {
+        align-self: stretch;
+        position: relative;
+        letter-spacing: -0.02em;
+        line-height: 28px;
+        font-weight: 800;
+  }
+  .crypto-screener-application {
+        align-self: stretch;
+        position: relative;
+        font-size: 20px;
+        letter-spacing: -0.02em;
+        line-height: 24px;
+        text-transform: capitalize;
+        font-weight: 800;
+  }
+  .parent {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 28px;
+  }
+  .row2 {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 28px;
+  }
+  .when-an-unknown {
+        margin: 0;
+  }
+  .row1 {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 28px;
+        font-size: 24px;
+  }
+  .my-project {
+        align-self: stretch;
+        background-color: #000;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding: 40px 16px;
+        color: #fff;
+  }
+  .frame-child {
+        width: 96px;
+        position: relative;
+        border-radius: 50%;
+        height: 96px;
+        object-fit: cover;
+        z-index: 0;
+  }
+  .frame-item {
+        width: 30px;
+        position: relative;
+        border-radius: 50%;
+        background-color: #000;
+        height: 30px;
+        z-index: 0;
+  }
+  .vector-icon {
+        width: 43%;
+        position: absolute;
+        margin: 0 !important;
+        height: 31%;
+        top: 33.33%;
+        right: 27%;
+        bottom: 35.67%;
+        left: 30%;
+        max-width: 100%;
+        overflow: hidden;
+        max-height: 100%;
+        z-index: 1;
+  }
+  .ellipse-group {
+        margin: 0 !important;
+        position: absolute;
+        top: 66px;
+        left: 66px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        z-index: 1;
+  }
+  .ellipse-parent {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        position: relative;
+        gap: 10px;
+  }
+  .i-recently-had {
+        align-self: stretch;
+        position: relative;
+        letter-spacing: 0.02em;
+        line-height: 20px;
+  }
+  .testimonial-child {
+        width: 120px;
+        position: relative;
+        background-color: #000;
+        height: 2px;
+  }
+  .evren-shah1 {
+        align-self: stretch;
+        position: relative;
+        font-size: 20px;
+        letter-spacing: -0.02em;
+        line-height: 24px;
+        text-transform: capitalize;
+        font-weight: 600;
+  }
+  .designer {
+        align-self: stretch;
+        position: relative;
+        letter-spacing: -0.02em;
+        line-height: 20px;
+        font-weight: 600;
+        color: #71717a;
+  }
+  .testimonial1 {
+        align-self: stretch;
+        box-shadow: 0px 6px 8px -6px rgba(24, 39, 75, 0.12), 0px 8px 16px -6px rgba(24, 39, 75, 0.08);
+        border-radius: 20px;
+        background-color: #fff;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 24px;
+        gap: 24px;
+  }
+  .ellipse-div {
+        width: 30px;
+        position: relative;
+        border-radius: 50%;
+        background-color: #fff;
+        height: 30px;
+        z-index: 0;
+  }
+  .testimonial-item {
+        width: 120px;
+        position: relative;
+        background-color: #fff;
+        height: 2px;
+  }
+  .designer1 {
+        align-self: stretch;
+        position: relative;
+        letter-spacing: -0.02em;
+        line-height: 20px;
+        font-weight: 600;
+  }
+  .testimonial2 {
+        align-self: stretch;
+        box-shadow: 0px 6px 8px -6px rgba(24, 39, 75, 0.12), 0px 8px 16px -6px rgba(24, 39, 75, 0.08);
+        border-radius: 20px;
+        background-color: #000;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 24px;
+        gap: 24px;
+        color: #fff;
+  }
+  .row6 {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        gap: 40px;
+        text-align: center;
+        font-size: 16px;
+        color: #404040;
+  }
+  .container6 {
+        align-self: stretch;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+  }
+  .your-name {
+        flex: 1;
+        position: relative;
+        letter-spacing: -0.02em;
+        line-height: 20px;
+  }
+  .your-name-wrapper {
+        align-self: stretch;
+        border-radius: 4px;
+        border: 1.4px solid #000;
+        box-sizing: border-box;
+        height: 56px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+        padding: 16px 24px;
+  }
+  .component-1 {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+  }
+  .how-can-i {
+        align-self: stretch;
+        flex: 1;
+        position: relative;
+        letter-spacing: -0.02em;
+        line-height: 20px;
+  }
+  .how-can-i-help-wrapper {
+        align-self: stretch;
+        border-radius: 4px;
+        border: 1.4px solid #000;
+        box-sizing: border-box;
+        height: 140px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding: 16px 24px;
+  }
+  .resume {
+        position: relative;
+        letter-spacing: 0.02em;
+        line-height: 20px;
+        font-weight: 600;
+  }
+  .button4 {
+        border-radius: 4px;
+        background-color: #000;
+        height: 48px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 12px 16px;
+        box-sizing: border-box;
+        color: #fff;
+  }
+  .button-group {
+        align-self: stretch;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding: 4px 0px;
+        gap: 24px;
+  }
+  .row7 {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        padding: 20px 0px;
+        gap: 20px;
+  }
+  .something-special-wrapper {
+        align-self: stretch;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+  }
+  .frame-parent1 {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 12px;
+  }
+  .youremailgmailcom-parent {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
+        font-size: 20px;
+  }
+  .row8 {
+        align-self: stretch;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 20px 0px;
+        gap: 32px;
+        font-size: 28px;
+        color: #000;
+  }
+  .my-testimonial2 {
+        align-self: stretch;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding: 40px 16px;
+        font-size: 16px;
+        color: #71717a;
+  }
+  .logo-1-icon1 {
+        width: 27.9px;
+        position: relative;
+        height: 28px;
+        overflow: hidden;
+        flex-shrink: 0;
+  }
+  .personal1 {
+        flex: 1;
+        position: relative;
+        letter-spacing: -0.02em;
+        line-height: 24px;
+        text-transform: capitalize;
+  }
+  .logo1 {
+        width: 139.9px;
+        height: 40px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 8px;
+  }
+  .logo-wrapper {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: flex-start;
+  }
+  .personal-parent {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        justify-content: center;
+        text-align: right;
+        font-size: 12px;
+  }
+  .container8 {
+        flex: 1;
+        overflow: hidden;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+  }
+  .footer {
+        align-self: stretch;
+        background-color: #000;
+        overflow: hidden;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding: 20px 16px;
+        font-size: 20px;
+        color: #fff;
+  }
+  .boyresponsive {
+        width: 100%;
+        position: relative;
+        background-color: #fff;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        text-align: left;
+        font-size: 28px;
+        color: #000;
+        font-family: Sora;
+  }
+  
+  
+
+}
